@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+## String
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
