@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/daksh006v/LeetCode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Dynamic Programming
 |  |
 | ------- |
