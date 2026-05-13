@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -54,8 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
