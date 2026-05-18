@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/daksh006v/LeetCode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -96,12 +97,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
