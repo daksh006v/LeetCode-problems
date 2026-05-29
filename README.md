@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/daksh006v/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0001-two-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
