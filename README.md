@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
+| [0414-third-maximum-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0414-third-maximum-number) |
 ## Greedy
 |  |
 | ------- |
