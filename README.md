@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0171-excel-sheet-column-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
+| [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 | [0824-goat-latin](https://github.com/daksh006v/LeetCode-problems/tree/master/0824-goat-latin) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
