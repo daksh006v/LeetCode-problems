@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/daksh006v/LeetCode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/daksh006v/LeetCode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
