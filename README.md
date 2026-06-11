@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/daksh006v/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/daksh006v/LeetCode-problems/tree/master/0228-summary-ranges) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/daksh006v/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/daksh006v/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
