@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/daksh006v/LeetCode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/daksh006v/LeetCode-problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/daksh006v/LeetCode-problems/tree/master/3019-number-of-changing-keys) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/daksh006v/LeetCode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/daksh006v/LeetCode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Design
 |  |
 | ------- |
