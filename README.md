@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/daksh006v/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0824-goat-latin](https://github.com/daksh006v/LeetCode-problems/tree/master/0824-goat-latin) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Recursion
 |  |
 | ------- |
