@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3019-number-of-changing-keys](https://github.com/daksh006v/LeetCode-problems/tree/master/3019-number-of-changing-keys) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/daksh006v/LeetCode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
 | ------- |
