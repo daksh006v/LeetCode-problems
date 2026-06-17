@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0824-goat-latin](https://github.com/daksh006v/LeetCode-problems/tree/master/0824-goat-latin) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/daksh006v/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/daksh006v/LeetCode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/daksh006v/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/daksh006v/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Backtracking
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/daksh006v/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/daksh006v/LeetCode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/daksh006v/LeetCode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
