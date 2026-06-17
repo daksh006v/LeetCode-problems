@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/daksh006v/LeetCode-problems/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/daksh006v/LeetCode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 ## Stack
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/daksh006v/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/daksh006v/LeetCode-problems/tree/master/0071-simplify-path) |
+| [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 ## Counting Sort
 |  |
 | ------- |
@@ -231,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
