@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/daksh006v/LeetCode-problems/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 ## Stack
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0824-goat-latin](https://github.com/daksh006v/LeetCode-problems/tree/master/0824-goat-latin) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 ## Trie
 |  |
