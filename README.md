@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/daksh006v/LeetCode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3945-digit-frequency-score](https://github.com/daksh006v/LeetCode-problems/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
+| [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [3612-process-string-with-special-operations-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
