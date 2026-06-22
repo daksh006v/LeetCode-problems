@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/daksh006v/LeetCode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/daksh006v/LeetCode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/daksh006v/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/daksh006v/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/daksh006v/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1486-xor-operation-in-an-array) |
 ## Simulation
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/daksh006v/LeetCode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/daksh006v/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 ## Trie
 |  |
