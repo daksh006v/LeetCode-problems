@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0414-third-maximum-number) |
+| [0454-4sum-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0454-4sum-ii) |
 | [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/daksh006v/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/daksh006v/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0454-4sum-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
