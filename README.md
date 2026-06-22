@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/daksh006v/LeetCode-problems/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/daksh006v/LeetCode-problems/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/daksh006v/LeetCode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1486-xor-operation-in-an-array) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/daksh006v/LeetCode-problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/daksh006v/LeetCode-problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/daksh006v/LeetCode-problems/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/daksh006v/LeetCode-problems/tree/master/0493-reverse-pairs) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 ## Binary Indexed Tree
