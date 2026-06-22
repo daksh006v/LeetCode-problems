@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/daksh006v/LeetCode-problems/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0383-ransom-note](https://github.com/daksh006v/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/daksh006v/LeetCode-problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0824-goat-latin](https://github.com/daksh006v/LeetCode-problems/tree/master/0824-goat-latin) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
