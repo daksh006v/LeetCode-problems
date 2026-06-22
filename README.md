@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 ## Trie
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
