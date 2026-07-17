@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
+| [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0697-degree-of-an-array) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/daksh006v/LeetCode-problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/daksh006v/LeetCode-problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/daksh006v/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1748-sum-of-unique-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/daksh006v/LeetCode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/daksh006v/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
