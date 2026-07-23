@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0697-degree-of-an-array) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
+| [0896-monotonic-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/daksh006v/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/daksh006v/LeetCode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
