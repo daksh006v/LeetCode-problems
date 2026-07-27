@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/daksh006v/LeetCode-problems/tree/master/0824-goat-latin) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/daksh006v/LeetCode-problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/daksh006v/LeetCode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/daksh006v/LeetCode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/daksh006v/LeetCode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/daksh006v/LeetCode-problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/daksh006v/LeetCode-problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3945-digit-frequency-score](https://github.com/daksh006v/LeetCode-problems/tree/master/3945-digit-frequency-score) |
