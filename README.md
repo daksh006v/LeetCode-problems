@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/daksh006v/LeetCode-problems/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
+| [1025-divisor-game](https://github.com/daksh006v/LeetCode-problems/tree/master/1025-divisor-game) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/daksh006v/LeetCode-problems/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/daksh006v/LeetCode-problems/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/daksh006v/LeetCode-problems/tree/master/0528-random-pick-with-weight) |
+| [1025-divisor-game](https://github.com/daksh006v/LeetCode-problems/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/daksh006v/LeetCode-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1486-xor-operation-in-an-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -322,10 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/daksh006v/LeetCode-problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/daksh006v/LeetCode-problems/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/daksh006v/LeetCode-problems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/daksh006v/LeetCode-problems/tree/master/1025-divisor-game) |
 ## Interactive
 |  |
 | ------- |
