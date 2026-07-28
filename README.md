@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/daksh006v/LeetCode-problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/daksh006v/LeetCode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [3828-final-element-after-subarray-deletions](https://github.com/daksh006v/LeetCode-problems/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/daksh006v/LeetCode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
