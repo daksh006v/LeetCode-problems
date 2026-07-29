@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-count-special-quadruplets](https://github.com/daksh006v/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/daksh006v/LeetCode-problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/daksh006v/LeetCode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/daksh006v/LeetCode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/daksh006v/LeetCode-problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/daksh006v/LeetCode-problems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1995-count-special-quadruplets](https://github.com/daksh006v/LeetCode-problems/tree/master/1995-count-special-quadruplets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/daksh006v/LeetCode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/daksh006v/LeetCode-problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3945-digit-frequency-score](https://github.com/daksh006v/LeetCode-problems/tree/master/3945-digit-frequency-score) |
 ## String
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/daksh006v/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/daksh006v/LeetCode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/daksh006v/LeetCode-problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/daksh006v/LeetCode-problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Recursion
 |  |
 | ------- |
