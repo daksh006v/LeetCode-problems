@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/daksh006v/LeetCode-problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/daksh006v/LeetCode-problems/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/daksh006v/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daksh006v/LeetCode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/daksh006v/LeetCode-problems/tree/master/0139-word-break) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/daksh006v/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/daksh006v/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/daksh006v/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/daksh006v/LeetCode-problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/daksh006v/LeetCode-problems/tree/master/0347-top-k-frequent-elements) |
