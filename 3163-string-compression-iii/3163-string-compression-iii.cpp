@@ -1,22 +1,18 @@
 class Solution {
 public:
     string compressedString(string word) {
-        string ans = "";
-        int i = 0;
+    string ans = "";
+    int smtg = 0;
 
-        while (i < word.size()) {
-            char ch = word[i];
-            int smtg = 0;
+    for (int i = 0; i < word.size(); i++) {
+        smtg++;
 
-            while (i < word.size() && word[i] == ch && smtg < 9) {
-                smtg++;
-                i++;
-            }
-
-            ans += to_string(smtg) + ch;
-           
+        if (smtg == 9 || i == word.size() - 1 || word[i] != word[i + 1]) {
+            ans += to_string(smtg) + word[i];
+            smtg = 0;
         }
+    }
 
-        return ans;
+    return ans;
     }
 };
