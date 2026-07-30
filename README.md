@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/daksh006v/LeetCode-problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/daksh006v/LeetCode-problems/tree/master/3828-final-element-after-subarray-deletions) |
 ## Dynamic Programming
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/daksh006v/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/daksh006v/LeetCode-problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1486-xor-operation-in-an-array) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Simulation
 |  |
 | ------- |
