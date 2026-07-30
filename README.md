@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/daksh006v/LeetCode-problems/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/daksh006v/LeetCode-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/daksh006v/LeetCode-problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/daksh006v/LeetCode-problems/tree/master/3828-final-element-after-subarray-deletions) |
 | [3945-digit-frequency-score](https://github.com/daksh006v/LeetCode-problems/tree/master/3945-digit-frequency-score) |
