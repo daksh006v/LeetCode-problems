@@ -13,8 +13,8 @@ public:
                 i++;
             }
 
-            ans += to_string(smtg);
-            ans += ch;
+            ans += to_string(smtg) + ch;
+           
         }
 
         return ans;
