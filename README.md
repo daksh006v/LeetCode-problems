@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/daksh006v/LeetCode-problems/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0707-design-linked-list) |
 ## Brainteaser
 |  |
 | ------- |
