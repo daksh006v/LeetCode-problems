@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/daksh006v/LeetCode-problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/daksh006v/LeetCode-problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/daksh006v/LeetCode-problems/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/daksh006v/LeetCode-problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
