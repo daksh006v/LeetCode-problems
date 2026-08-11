@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/daksh006v/LeetCode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0707-design-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/daksh006v/LeetCode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/daksh006v/LeetCode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Brainteaser
 |  |
