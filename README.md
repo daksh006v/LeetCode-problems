@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
+| [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
+| [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/daksh006v/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/daksh006v/LeetCode-problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0707-design-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/daksh006v/LeetCode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/daksh006v/LeetCode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Brainteaser
 |  |
