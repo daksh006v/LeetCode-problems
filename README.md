@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0896-monotonic-array) |
 | [1002-find-common-characters](https://github.com/daksh006v/LeetCode-problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/daksh006v/LeetCode-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/daksh006v/LeetCode-problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1313-decompress-run-length-encoded-list](https://github.com/daksh006v/LeetCode-problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/daksh006v/LeetCode-problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
+| [1019-next-greater-node-in-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Hash Table
 |  |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/daksh006v/LeetCode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/daksh006v/LeetCode-problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
