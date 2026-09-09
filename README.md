@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/daksh006v/LeetCode-problems/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/daksh006v/LeetCode-problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0234-palindrome-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/daksh006v/LeetCode-problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/daksh006v/LeetCode-problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/daksh006v/LeetCode-problems/tree/master/0739-daily-temperatures) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/daksh006v/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/daksh006v/LeetCode-problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/daksh006v/LeetCode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/daksh006v/LeetCode-problems/tree/master/0392-is-subsequence) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/daksh006v/LeetCode-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/daksh006v/LeetCode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/daksh006v/LeetCode-problems/tree/master/0342-power-of-four) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/daksh006v/LeetCode-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/daksh006v/LeetCode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
