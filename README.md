@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/daksh006v/LeetCode-problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
+| [2390-removing-stars-from-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/daksh006v/LeetCode-problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/daksh006v/LeetCode-problems/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/daksh006v/LeetCode-problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/daksh006v/LeetCode-problems/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/daksh006v/LeetCode-problems/tree/master/3019-number-of-changing-keys) |
 | [3163-string-compression-iii](https://github.com/daksh006v/LeetCode-problems/tree/master/3163-string-compression-iii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/daksh006v/LeetCode-problems/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/daksh006v/LeetCode-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/daksh006v/LeetCode-problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/daksh006v/LeetCode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/daksh006v/LeetCode-problems/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/daksh006v/LeetCode-problems/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
